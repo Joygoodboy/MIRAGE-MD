@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MDV2",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "name":"𝙈𝙄𝙍𝘼𝙂𝙀-𝙈𝘿 𝙑1",
+  "description":"bot whatsapp développé by joyboy",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
-  "repository":"https://github.com/ibrahimaitech/IBRAHIM-AI-10.10",
+  "logo":"https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg",
+  "repository":"https://github.com/Joygoodboy/MIRAGE-MD-AI-10.10",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝑩𝑴𝑾  𝑴𝑫",
+      "value":"𝙈𝙄𝙍𝘼𝙂𝙀-𝙈𝘿",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+      "value":"https://telegra.ph/file/e8b25ea0f33c577e9da53.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "ᒍOYᗷOY"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+233277114944,233257011281,+234 913 790 1237"
   },
     "WARN_COUNT":
   {
