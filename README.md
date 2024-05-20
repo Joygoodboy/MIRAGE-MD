@@ -38,7 +38,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/message/+233257011281,+234 913 790 1237">
+   <a href="https://wa.me/qr/BLJX2FQKK3PYN1">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
