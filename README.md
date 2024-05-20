@@ -101,6 +101,6 @@ Contributions to *MIRAGE-MD* are welcome! If you have ideas for new features, im
 The *MIRAGE-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *MIRAGE-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+☣Powered by joyboy Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
