@@ -52,7 +52,7 @@ HOW TO REACH THE OWNER?
 
 1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP ON JOYBOY TECH APP DOWN THERE
 
 
 
