@@ -105,3 +105,6 @@ Enjoy the diverse features of the *MIRAGE-MD*  to enhance your Whatsapp more enj
 ☣Powered by joyboy Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+Also note that this bot is made by the mirage team
+thus joyboy,ola,mr wasi and ibrahim adams
