@@ -20,11 +20,11 @@
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://mirage-md-code-app-c1168f4953cd.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
 
 
   
- [QR] ***[`TAP HERE TO SCAN QR`](https://mirage-md-code-app-c1168f4953cd.herokuapp.com/qr)***
+ [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
